@@ -1,0 +1,9 @@
+[SECTION: AT_THE_STATION]
+
+[VOICE: COACH]
+Which platform does the train leave from?
+
+[PAUSE: ANSWER]
+
+[VOICE: MODEL]
+It leaves from platform four.
